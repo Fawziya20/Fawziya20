@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fawzi😉</h1>
+<h1 align="center">Hello 👋, I'm Fawzi😉</h1>
 <h3 align="center">Passionate AI and Data Science Engineer pioneering cutting-edge projects with the latest technologies for impactful solutions.😎</h3>
 
-- 💬 Talking about **Deep Learning, AI, Computer Vision, Natural Language Processing**
+-  🚀 Delving into **Deep Learning, AI, Computer Vision, Natural Language Processing**
 
-- 📫 Business inquiries **fawziya267@gmail.com**
+- 🤝 Collaboration inquiries **fawziya267@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
